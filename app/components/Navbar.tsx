@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar">
       <Link to="/">
         <p className="text-2xl font-bold text-gradient">
-          AI Resume Analyzer
+          RESUMLYZER:AI Resume Analyzer
         </p>
       </Link>
 
